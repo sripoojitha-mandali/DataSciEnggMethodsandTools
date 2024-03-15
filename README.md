@@ -16,6 +16,9 @@ This Jupyter Notebook, titled "Bank Churn Combined Report", provides an extensiv
 ## Medium Article 
 https://medium.com/@poojitha.mandali/how-to-determine-the-best-supervised-learning-model-for-a-dataset-a26b1bd2af64
 
+## Workflow
+![image](https://github.com/sripoojitha-mandali/DataSciEnggMethodsandTools/assets/114782541/7a897e58-8028-4b8c-ad0f-1bca6c734241)
+
 ## Installation
 
 ### Prerequisites
@@ -42,4 +45,5 @@ To use this notebook:
 - Navigate to the notebook directory in your terminal.
 - Launch Jupyter Notebook or Jupyter Lab.
 - Open the BankChurn_CombinedReport.ipynb file.
+
 
